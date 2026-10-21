@@ -1,36 +1,19 @@
 
-<h1 align="center">Hi, I'm Melissa 👋</h1>
-
-<h3 align="center">💻 Systems Development Student</h3>
+<h1 align="center">୨୧ Olá, eu sou a Melissa! 💜</h1>
 
 <p align="center">
-  Learning, coding and building new projects.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=estudante+de+desenvolvimento;aprendendo+um+c%C3%B3digo+de+cada+vez;bem-vindo(a)+ao+meu+cantinho+%E2%9C%A8" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### 🌙 um pouco sobre mim
 
-- 🎓 Systems Development student
-- 🌱 Currently learning Python and Web Development
-- 💡 Interested in software development
-- 🚀 Building my first projects
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 🐍 Aprendendo Python
+- 💻 Explorando o mundo da programação
+- ✨ Descobrindo coisas novas e praticando
+- 🪻 Aqui compartilho meus estudos e projetos
 
-### 🛠️ Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 📌 Goals
-
-- Improve my programming skills
-- Develop personal projects
-- Learn new technologies
-
----
-
-<p align="center">
-  <i>"Every expert was once a beginner."</i>
 </p>
+
